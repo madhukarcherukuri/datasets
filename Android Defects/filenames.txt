@@ -1,0 +1,63 @@
+Bluetooth4.1-4.4 cimpact top10.csv
+bluetooth4.1-4.4 cimpact top100.csv
+Bluetooth4.1-4.4 cimpact top25.csv
+Bluetooth4.1-4.4 cimpact top50.csv
+Bluetooth4.1-4.4 combined top10.csv
+bluetooth4.1-4.4 combined top100.csv
+Bluetooth4.1-4.4 combined top25.csv
+Bluetooth4.1-4.4 combined top50.csv
+Bluetooth4.1-4.4 meffort top10.csv
+bluetooth4.1-4.4 meffort top100.csv
+Bluetooth4.1-4.4 meffort top25.csv
+Bluetooth4.1-4.4 meffort top50.csv
+browser2.3-4.0 cimpact top10.csv
+browser2.3-4.0 cimpact top100.csv
+browser2.3-4.0 cimpact top25.csv
+browser2.3-4.0 cimpact top50.csv
+browser2.3-4.0 combined top10.csv
+browser2.3-4.0 combined top100.csv
+browser2.3-4.0 combined top25.csv
+browser2.3-4.0 combined top50.csv
+browser2.3-4.0 meffort top10.csv
+browser2.3-4.0 meffort top100 agn.csv
+browser2.3-4.0 meffort top100 agn.xlsx
+browser2.3-4.0 meffort top25.csv
+browser2.3-4.0 meffort top50.csv
+calendar4.1-4.4 cimpacttop10.csv
+calendar4.1-4.4 cimpacttop100.csv
+calendar4.1-4.4 cimpacttop25.csv
+calendar4.1-4.4 cimpacttop50.csv
+calendar4.1-4.4 combine10.csv
+calendar4.1-4.4 combine25.csv
+calendar4.1-4.4 combine50.csv
+calendar4.1-4.4 combinetop100.csv
+calendar4.1-4.4 mefforttop10.csv
+calendar4.1-4.4 mefforttop25.csv
+calendar4.1-4.4 mefforttop5.csv
+calendar4.1-4.4 mefforttop50.csv
+Camera2.3-4.0 cimpact top10.csv
+camera2.3-4.0 cimpact top100.csv
+Camera2.3-4.0 cimpact top25.csv
+camera2.3-4.0 cimpact top50.csv
+Camera2.3-4.0 combined top10.csv
+Camera2.3-4.0 combined top25.csv
+camera2.3-4.0 combined top50.csv
+camera2.3-4.0 cpmbined top100.csv
+Camera2.3-4.0 meffort top10.csv
+camera2.3-4.0 meffort top100.csv
+Camera2.3-4.0 meffort top25.csv
+camera2.3-4.0 meffort top50.csv
+filenames.txt
+mms cimpact top 10.csv
+mms cimpact top 100.csv
+mms cimpact top 25.csv
+mms cimpact top 50.csv
+mms combined top 100.csv
+mms combined top 25.csv
+mms combined top 50.csv
+mms combined top10.csv
+mms mefffort top 100.csv
+mms meffort top 10.csv
+mms meffort top 25.csv
+mms meffort top 50.csv
+performance_measures.csv
